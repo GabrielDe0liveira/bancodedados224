@@ -1,0 +1,23 @@
+h1 {
+    color: rgb(38, 12, 107);
+}
+input {
+    padding: 10px;
+    border-radius: 5px;
+    display: flex;
+}
+nav {
+    display: flex;
+    justify-content: center;
+}
+ul {
+  display: flex;
+}
+ul li {
+    text-decoration: none;
+
+    margin: 0 10px;
+}
+ul li a {
+    text-decoration: none;
+}
